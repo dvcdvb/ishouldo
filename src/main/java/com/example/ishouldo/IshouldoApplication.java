@@ -8,6 +8,7 @@ public class IshouldoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IshouldoApplication.class, args);
+		System.out.println("Test");
 	}
 
 }
